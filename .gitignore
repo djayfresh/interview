@@ -1,3 +1,11 @@
+#UI
+
 e2e/
 node_modules/
 dist/
+
+#Server
+bin/
+obj/
+packages/
+.vs/
